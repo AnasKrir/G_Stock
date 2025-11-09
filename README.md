@@ -17,11 +17,11 @@ Application web **Django** pour gérer Produits, Commandes et Stocks, avec le r�
 
 1. [Fonctionnalités](#-fonctionnalités)
 2. [Stack technique](#-stack-technique)
-3. [Architecture & modèles](#-architecture--modèles)
+3. [Architecture & modèles](#-architecture-&-modèles)
 4. [Démarrage rapide](#-démarrage-rapide)
     - [Prérequis](#-prérequis)
     - [Configuration locale](#2-installation-&-configuration-locale)
-    - [Lancer l’app en local](#3-lancer-lapp-en-local)
+    - [Lancer l’app en local](#3-lancer-l’app-en-local)
     - [Comptes de démonstration](#-comptes-de-démonstration)
 5. [Gestion des données & administration](#-gestion-des-données-&-administration)
 6. [Aperçu](#-aperçu-screenshots)
