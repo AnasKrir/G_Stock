@@ -1,0 +1,86 @@
+body { 
+	background-color: #C1EBEC;
+}
+
+/* Align the title of the center of the page */
+
+.table{ 
+	font-size: 13px;
+	text-align: center;
+	width: 95%;
+	margin: auto;
+	
+}
+
+/* Make alternating colors for the table rows */
+
+.table tr:nth-child(odd){
+
+	background: #F7F3DC
+
+	}
+
+.table tr:nth-child(even){
+
+	background: #EBE2B0
+
+	}
+
+	th { 
+		background-color: #DCC759;
+		color: white;
+
+}
+
+.display_table{ 
+
+	border-bottom-right-radius: 20px;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-bottom: 20px;
+	box-shadow: 12px 12px 20px 6px #B8A11D;
+}
+
+.header { 
+
+font-family: helvetica;
+color: #AE9B32;
+font-size: 50px;
+text-align: center;
+width: 100%;
+text-shadow: 6px 6px 6px #CBBD6C;
+display: block;
+font-weight: bolder;
+
+}
+
+.success {
+    list-style: none;
+    background-color: #C1EBEC;
+    color: black;
+    box-shadow: 12px 12px 12px #B8A11D;
+    text-align: center;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

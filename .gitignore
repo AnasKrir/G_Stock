@@ -1,0 +1,32 @@
+# Python / Django
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+.env
+.env.*
+*.log
+
+# Django
+/staticfiles/
+media/
+db.sqlite3
+
+# VS Code
+.vscode/
+
+# Virtualenv
+venv/
+.venv/
+ENV/
+env/
+.venv*/
+
+# Mac
+.DS_Store
+
+# SQLite browser files
+*.sqbpro
