@@ -96,11 +96,11 @@ src/
 
 ### 1️⃣ Prérequis
 
-✅ Python **3.10+**  
-✅ pip et virtualenv (optionnel) 
-✅ MySQL 8 local ou Docker  
-✅ Git
-✅ SQLite est inclus avec Python → rien à installer
+✅ Python **3.10+** <br/> 
+✅ pip et virtualenv (optionnel) <br/>
+✅ MySQL 8 local ou Docker  <br/>
+✅ Git<br/>
+✅ SQLite est inclus avec Python → rien à installer <br/>
 
 
 
