@@ -3,7 +3,7 @@
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-5.x-092E20?logo=django&logoColor=white)
+![Django](https://img.shields.io/badge/Django-2.x-092E20?logo=django&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-3-003B57?logo=sqlite&logoColor=white)
 
 
